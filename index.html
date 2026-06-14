@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="th">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>STA Rubber Block Export Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="topbar">
+        <div>
+          <p class="eyebrow">STA / HS 400122 / World Export</p>
+          <h1>ยอดส่งออกยางแท่ง</h1>
+          <p id="freshness" class="freshness">Loading source data...</p>
+        </div>
+        <div class="source-chip" id="sourceChip">MOC</div>
+      </section>
+
+      <section class="controls" aria-label="Dashboard controls">
+        <div class="control-group">
+          <span class="control-label">Grain</span>
+          <div class="segments" id="grainControls"></div>
+        </div>
+        <div class="control-group">
+          <span class="control-label">Year</span>
+          <div class="segments" id="yearControls"></div>
+        </div>
+        <div class="control-group">
+          <span class="control-label">Metric</span>
+          <div class="segments" id="metricControls"></div>
+        </div>
+        <div class="control-group">
+          <span class="control-label">View</span>
+          <div class="segments" id="modeControls"></div>
+        </div>
+      </section>
+
+      <section class="kpis" id="kpis"></section>
+
+      <section class="main-grid">
+        <div class="chart-panel">
+          <div class="panel-head">
+            <div>
+              <h2 id="chartTitle">Trend</h2>
+              <p id="chartSubtitle"></p>
+            </div>
+            <div class="legend" id="legend"></div>
+          </div>
+          <div id="chart" class="chart" role="img" aria-label="Rubber block export line chart"></div>
+          <div id="tooltip" class="tooltip" hidden></div>
+        </div>
+
+        <aside class="detail-panel" id="detailPanel">
+          <h2>Point Detail</h2>
+          <div id="pointDetail" class="point-detail"></div>
+        </aside>
+      </section>
+
+      <section class="table-section">
+        <div class="panel-head">
+          <div>
+            <h2 id="tableTitle">Data</h2>
+            <p id="tableSubtitle"></p>
+          </div>
+          <button id="downloadCsv" class="icon-button" type="button" title="Download visible data as CSV" aria-label="Download CSV">
+            <span aria-hidden="true">↓</span>
+          </button>
+        </div>
+        <div class="table-wrap">
+          <table id="dataTable"></table>
+        </div>
+      </section>
+
+      <section class="method">
+        <h2>Source & Method</h2>
+        <div id="methodText"></div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
