@@ -4,7 +4,8 @@ Online static dashboard for Thai rubber block exports, HS `400122`, world scope,
 
 ## Online
 
-GitHub Pages serves this site from the `main` branch root.
+- Dashboard: https://benzkanin41-alt.github.io/sta-rubber-block-dashboard/
+- GitHub Pages serves this site from the `main` branch root.
 
 ## Files
 
