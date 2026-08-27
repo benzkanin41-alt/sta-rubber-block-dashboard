@@ -571,7 +571,9 @@ function downloadCsv() {
   URL.revokeObjectURL(url);
 }
 
-window.addEventListener("resize", () => renderChart());
+window.addEventListener("resize", () => {
+  if (state.data) renderChart();
+});
 el.downloadCsv.addEventListener("click", downloadCsv);
 
 fetch(DATA_URL)
