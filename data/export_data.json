@@ -1,7 +1,7 @@
 {
   "metadata": {
     "title": "ยอดส่งออกยางแท่ง HS 400122",
-    "generated_at": "2026-08-27T05:16:56.098952+00:00",
+    "generated_at": "2026-09-25T05:02:56.645764+00:00",
     "source_name": "Thailand Ministry of Commerce Trade Report",
     "source_url": "https://tradereport.moc.go.th/th/stat/reporthscodeexport01",
     "result_endpoint": "https://tradereport.moc.go.th/stat/reporthscodeexport01/result",
@@ -16,10 +16,10 @@
     "value_unit_display": "THB million",
     "latest_year_ce": 2026,
     "latest_year_be": 2569,
-    "latest_month": 7,
-    "latest_month_name_th": "ก.ค.",
-    "coverage": "2023-01 to 2026-07",
-    "workbook_reference": "D:\\OneDrive\\stock\\Valuation หุ้น\\STA\\STA_1Q69correct MAY.xlsx"
+    "latest_month": 8,
+    "latest_month_name_th": "ส.ค.",
+    "coverage": "2023-01 to 2026-08",
+    "workbook_reference": "local STA workbook"
   },
   "definitions": {
     "quantity_mkg": "QuantityMonth / 1,000,000 from MOC world row.",
@@ -1201,7 +1201,7 @@
         1
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน ม.ค., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": -0.18100110879087417,
@@ -1233,7 +1233,7 @@
         2
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน ก.พ., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": 0.08801086613075015,
@@ -1265,7 +1265,7 @@
         3
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน มี.ค., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": -0.06091297086261649,
@@ -1297,7 +1297,7 @@
         4
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน เม.ย., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": -0.11064193724589111,
@@ -1329,7 +1329,7 @@
         5
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน พ.ค., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": 0.007463502516235732,
@@ -1361,7 +1361,7 @@
         6
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน มิ.ย., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": 0.024292615013428165,
@@ -1393,7 +1393,7 @@
         7
       ],
       "source_country": "โลก",
-      "report_latest_month": "กรกฎาคม",
+      "report_latest_month": "สิงหาคม",
       "report_latest_year": 2569,
       "report_condition": "ประจำปี 2569, เดือน ก.ค., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
       "quantity_mkg_mom": 0.28440835046541624,
@@ -1405,6 +1405,38 @@
       "asp_baht_per_kg_mom": 0.039363990612403255,
       "asp_baht_per_kg_qoq": null,
       "asp_baht_per_kg_yoy": 0.2001407695478099
+    },
+    {
+      "period": "2026-08",
+      "grain": "monthly",
+      "year_ce": 2026,
+      "year_be": 2569,
+      "month": 8,
+      "month_name_th": "ส.ค.",
+      "period_label": "ส.ค. 2569",
+      "quarter": 3,
+      "quantity_kg": 112975759.0,
+      "value_baht": 8794817987.0,
+      "quantity_mkg": 112.975759,
+      "value_mbaht": 8794.817987,
+      "asp_baht_per_kg": 77.8469475650967,
+      "is_complete": true,
+      "months_in_period": [
+        8
+      ],
+      "source_country": "โลก",
+      "report_latest_month": "สิงหาคม",
+      "report_latest_year": 2569,
+      "report_condition": "ประจำปี 2569, เดือน ส.ค., สกุลเงิน บาท, เรียงลำดับข้อมูล มูลค่า (จากมากไปน้อย), พิกัดกรมศุลกากร (400122 (KGM) : ยางธรรมชาติที่กำหนดไว้ในทางเทคนิค (ทีเอสเอ็นอาร์))",
+      "quantity_mkg_mom": -0.18047957164558892,
+      "quantity_mkg_qoq": null,
+      "quantity_mkg_yoy": 0.14846950020457816,
+      "value_mbaht_mom": -0.1433522700698897,
+      "value_mbaht_qoq": null,
+      "value_mbaht_yoy": 0.4888728874373909,
+      "asp_baht_per_kg_mom": 0.045303692612337354,
+      "asp_baht_per_kg_qoq": null,
+      "asp_baht_per_kg_yoy": 0.2963974116614996
     }
   ],
   "quarterly": [
@@ -1836,14 +1868,15 @@
       "quarter": 3,
       "quarter_label": "Q3",
       "period_label": "Q3 2569",
-      "quantity_kg": 137855940.0,
-      "value_baht": 10266551442.0,
-      "quantity_mkg": 137.85594,
-      "value_mbaht": 10266.551442,
-      "asp_baht_per_kg": 74.4730436860392,
+      "quantity_kg": 250831699.0,
+      "value_baht": 19061369429.0,
+      "quantity_mkg": 250.831699,
+      "value_mbaht": 19061.369429,
+      "asp_baht_per_kg": 75.99266561998608,
       "is_complete": false,
       "months_in_period": [
-        7
+        7,
+        8
       ],
       "source_country": "โลก",
       "quantity_mkg_mom": null,
@@ -1975,11 +2008,11 @@
       "year_ce": 2026,
       "year_be": 2569,
       "period_label": "2569",
-      "quantity_kg": 809920942.0,
-      "value_baht": 53125466800.0,
-      "quantity_mkg": 809.920942,
-      "value_mbaht": 53125.4668,
-      "asp_baht_per_kg": 65.59339812699892,
+      "quantity_kg": 922896701.0,
+      "value_baht": 61920284787.0,
+      "quantity_mkg": 922.896701,
+      "value_mbaht": 61920.284787,
+      "asp_baht_per_kg": 67.0934078753414,
       "is_complete": false,
       "months_in_period": [
         1,
@@ -1988,7 +2021,8 @@
         4,
         5,
         6,
-        7
+        7,
+        8
       ],
       "source_country": "โลก",
       "quantity_mkg_mom": null,
@@ -2370,6 +2404,15 @@
       "quantity_diff": 0.0,
       "value_mbaht_moc": 7036.764642,
       "value_mbaht_workbook": 7036.764642,
+      "value_diff": 0.0
+    },
+    {
+      "period": "2026-06",
+      "quantity_mkg_moc": 107.330305,
+      "quantity_mkg_workbook": 107.330305,
+      "quantity_diff": 0.0,
+      "value_mbaht_moc": 7690.486264,
+      "value_mbaht_workbook": 7690.486264,
       "value_diff": 0.0
     }
   ]
